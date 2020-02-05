@@ -5254,7 +5254,7 @@
       },
       {
         "name": "Vitsebsk voblast",
-        "shortCode": "viVN",
+        "shortCode": "VI",
         "i18n": {
           "enMY": "Vitsebsk voblast",
           "zhCN": "Vitsebsk voblast",
@@ -5507,7 +5507,7 @@
       },
       {
         "name": "Kouffo",
-        "shortCode": "koKR",
+        "shortCode": "KO",
         "i18n": {
           "enMY": "Kouffo",
           "zhCN": "库福",
@@ -8488,7 +8488,7 @@
       },
       {
         "name": "Extrême-Nord",
-        "shortCode": "enMY",
+        "shortCode": "EN",
         "i18n": {
           "enMY": "Extrême-Nord",
           "zhCN": "极北省",
@@ -16311,7 +16311,7 @@
       },
       {
         "name": "Thüringen",
-        "shortCode": "thTH",
+        "shortCode": "TH",
         "i18n": {
           "enMY": "Thüringen",
           "zhCN": "图林根",
@@ -17055,7 +17055,7 @@
       },
       {
         "name": "Jalapa",
-        "shortCode": "jaJP",
+        "shortCode": "JA",
         "i18n": {
           "enMY": "Jalapa",
           "zhCN": "哈拉帕",
@@ -19421,7 +19421,7 @@
   },
   {
     "countryName": "Indonesia",
-    "countryShortCode": "inID",
+    "countryShortCode": "ID",
     "i18n": {
       "enMY": "Indonesia",
       "zhCN": "印度尼西亚",
@@ -19525,7 +19525,7 @@
       },
       {
         "name": "Jambi",
-        "shortCode": "jaJP",
+        "shortCode": "JA",
         "i18n": {
           "enMY": "Jambi",
           "zhCN": "占碑",
@@ -22262,7 +22262,7 @@
       },
       {
         "name": "Jarash",
-        "shortCode": "jaJP",
+        "shortCode": "JA",
         "i18n": {
           "enMY": "Jarash",
           "zhCN": "杰拉什",
@@ -23951,7 +23951,7 @@
       },
       {
         "name": "Al Jahrā’",
-        "shortCode": "jaJP",
+        "shortCode": "JA",
         "i18n": {
           "enMY": "Al Jahrā’",
           "zhCN": "杰赫拉”",
@@ -24293,7 +24293,7 @@
       },
       {
         "name": "Vientiane",
-        "shortCode": "viVN",
+        "shortCode": "VI",
         "i18n": {
           "enMY": "Vientiane",
           "zhCN": "万象",
@@ -26000,7 +26000,7 @@
       },
       {
         "name": "Liban-Sud",
-        "shortCode": "jaJP",
+        "shortCode": "JA",
         "i18n": {
           "enMY": "Liban-Sud",
           "zhCN": "耐力板肥皂水",
@@ -26422,7 +26422,7 @@
       },
       {
         "name": "Al Jabal al Akhḑar",
-        "shortCode": "jaJP",
+        "shortCode": "JA",
         "i18n": {
           "enMY": "Al Jabal al Akhḑar",
           "zhCN": "绿山",
@@ -26448,7 +26448,7 @@
       },
       {
         "name": "Al Jafārah",
-        "shortCode": "jaJP",
+        "shortCode": "JA",
         "i18n": {
           "enMY": "Al Jafārah",
           "zhCN": "铝Jafārah",
@@ -28568,7 +28568,7 @@
       },
       {
         "name": "Thyolo",
-        "shortCode": "thTH",
+        "shortCode": "TH",
         "i18n": {
           "enMY": "Thyolo",
           "zhCN": "乔洛",
@@ -34046,7 +34046,7 @@
       },
       {
         "name": "Janakpur",
-        "shortCode": "jaJP",
+        "shortCode": "JA",
         "i18n": {
           "enMY": "Janakpur",
           "zhCN": "贾纳克布尔",
@@ -34072,7 +34072,7 @@
       },
       {
         "name": "Kosi",
-        "shortCode": "koKR",
+        "shortCode": "KO",
         "i18n": {
           "enMY": "Kosi",
           "zhCN": "科西",
@@ -34334,7 +34334,7 @@
       },
       {
         "name": "Zuid-Holland",
-        "shortCode": "zhCN",
+        "shortCode": "ZH",
         "i18n": {
           "enMY": "Zuid-Holland",
           "zhCN": "南荷兰",
@@ -35189,7 +35189,7 @@
       },
       {
         "name": "Enugu",
-        "shortCode": "enMY",
+        "shortCode": "EN",
         "i18n": {
           "enMY": "Enugu",
           "zhCN": "埃努古",
@@ -35293,7 +35293,7 @@
       },
       {
         "name": "Kogi",
-        "shortCode": "koKR",
+        "shortCode": "KO",
         "i18n": {
           "enMY": "Kogi",
           "zhCN": "科吉",
@@ -41341,7 +41341,7 @@
       },
       {
         "name": "Komi Republic",
-        "shortCode": "koKR",
+        "shortCode": "KO",
         "i18n": {
           "enMY": "Komi Republic",
           "zhCN": "科米共和国",
@@ -43226,7 +43226,7 @@
       },
       {
         "name": "Thies",
-        "shortCode": "thTH",
+        "shortCode": "TH",
         "i18n": {
           "enMY": "Thies",
           "zhCN": "捷斯",
@@ -47828,7 +47828,7 @@
       },
       {
         "name": "Araba/Álava",
-        "shortCode": "viVN",
+        "shortCode": "VI",
         "i18n": {
           "enMY": "Araba/Álava",
           "zhCN": "阿拉巴/阿拉瓦",
@@ -49673,7 +49673,7 @@
       },
       {
         "name": "Zürich",
-        "shortCode": "zhCN",
+        "shortCode": "ZH",
         "i18n": {
           "enMY": "Zürich",
           "zhCN": "苏黎世",
@@ -49844,7 +49844,7 @@
       },
       {
         "name": "Idlib",
-        "shortCode": "inID",
+        "shortCode": "ID",
         "i18n": {
           "enMY": "Idlib",
           "zhCN": "伊德利卜",
@@ -50580,7 +50580,7 @@
   },
   {
     "countryName": "Thailand",
-    "countryShortCode": "thTH",
+    "countryShortCode": "TH",
     "i18n": {
       "enMY": "Thailand",
       "zhCN": "泰国",
@@ -51765,7 +51765,7 @@
       },
       {
         "name": "Viqueque",
-        "shortCode": "viVN",
+        "shortCode": "VI",
         "i18n": {
           "enMY": "Viqueque",
           "zhCN": "维克克",
@@ -56980,7 +56980,7 @@
       },
       {
         "name": "Idaho",
-        "shortCode": "inID",
+        "shortCode": "ID",
         "i18n": {
           "enMY": "Idaho",
           "zhCN": "爱达荷州",
@@ -57474,7 +57474,7 @@
       },
       {
         "name": "Virgin Islands",
-        "shortCode": "viVN",
+        "shortCode": "VI",
         "i18n": {
           "enMY": "Virgin Islands",
           "zhCN": "维尔京群岛",
@@ -59349,7 +59349,7 @@
   },
   {
     "countryName": "Virgin Islands, U.S.",
-    "countryShortCode": "viVN",
+    "countryShortCode": "VI",
     "i18n": {
       "enMY": "Virgin Islands, U.S.",
       "zhCN": "维尔京群岛，美国",
@@ -59615,7 +59615,7 @@
       },
       {
         "name": "Al Jawf",
-        "shortCode": "jaJP",
+        "shortCode": "JA",
         "i18n": {
           "enMY": "Al Jawf",
           "zhCN": "朱夫",

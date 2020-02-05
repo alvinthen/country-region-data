@@ -60,6 +60,7 @@ are pretty clear, I think.
 
 ### Changelog
 
+- `1.4.8` - Feb 5, 2020. Wrong data fixed.
 - `1.4.7` - Feb 3, 2020. Data updates.
 - `1.4.6` - Oct 16, 2019. Data updates.
 - `1.4.5` - Nov 28, 2018. Data updates.
